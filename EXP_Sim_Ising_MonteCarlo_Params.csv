@@ -1,0 +1,2 @@
+Lattice_N,Temperature_min,Temperature_max,Temperature_steps,MC_sweeps_per_T,Equilibration_sweeps
+64,1.5,3.5,41,2000,500
