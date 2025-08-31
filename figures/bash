@@ -1,0 +1,3 @@
+git add notebooks/ data/
+git commit -m "add plotting scripts and CSV templates"
+git push origin main
